@@ -1,2 +1,3 @@
-# corrupt_file
-Corrupt files Using C Language Code
+# Corrupt_file
+
+A basic C program which can be used to corrupt files.
